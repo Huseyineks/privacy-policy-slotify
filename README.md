@@ -115,3 +115,18 @@ Bu Gizlilik Politikası zaman zaman güncellenebilir. Güncel politikaya her zam
 Gizlilik uygulamalarımız veya kişisel verilerinizle ilgili sorularınız için bizimle iletişime geçebilirsiniz:
 
 E-posta: huseyineksici01@gmail.com
+
+
+SMS ve Mobil İletişim / SMS Privacy Disclosure
+
+Slotify, kullanıcılara işlem bildirimleri, tek kullanımlık doğrulama kodları (OTP) ve randevu güncellemeleri iletmek amacıyla SMS hizmeti kullanır.
+
+No mobile information will be shared with third parties/affiliates for marketing/promotional purposes. All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
+
+Message Frequency: Message frequency varies depending on your appointments and account interactions.
+
+Message and Data Rates: Standard message and data rates may apply.
+
+Help & Support: You can reply HELP for assistance or contact us at huseyineksici01@gmail.com.
+
+Opt-Out: You can opt-out of SMS notifications at any time by replying STOP.
