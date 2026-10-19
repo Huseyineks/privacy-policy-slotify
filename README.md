@@ -1,5 +1,5 @@
 Slotify - Gizlilik Politikası (Privacy Policy)
-Son Güncelleme: 27 Temmuz 2026
+Son Güncelleme: 19 Ekim 2026
 
 Bu Gizlilik Politikası, Slotify mobil uygulamasını ("Uygulama") kullanırken toplanan kişisel verilerin 6698 sayılı Kişisel Verilerin Korunması Kanunu ("KVKK") kapsamında nasıl işlendiğini açıklamaktadır.
 
@@ -30,6 +30,8 @@ Zaman dilimi bilgisi
 Çalışma saatleri ve sunulan hizmetler
 
 İşletmeye bağlı kullanıcılar, roller ve yetki bilgileri
+
+Rehberden seçtiğiniz müşterinin adı ve telefon numarası (yalnızca seçtiğiniz kişi)
 
 Randevu Bilgileri
 Randevu tarihi, saati, seçilen hizmet ve randevu durumu
@@ -82,9 +84,13 @@ Profil fotoğrafı seçimi için Galeri erişimi,
 
 Haritada konum seçimi için Konum erişimi,
 
+İşletme hesabında müşterinin telefon numarasını rehberden seçebilmeniz için Rehber erişimi,
+
 Randevu bildirimleri için Bildirim izni talep edebilir.
 
 Bu izinleri vermek zorunda değilsiniz; ancak izin verilmemesi durumunda ilgili özellikler kullanılamayabilir. İzinlerinizi cihazınızın Ayarlar bölümünden istediğiniz zaman değiştirebilirsiniz.
+
+Rehber erişimi: Rehbere yalnızca siz bir kişi seçtiğinizde erişilir. Yalnızca seçtiğiniz kişinin adı ve telefon numarası, kaydı oluşturduğunuzda müşteri kaydı olarak sunucularımıza iletilir. Rehberinizin geri kalanı okunmaz, saklanmaz ve üçüncü taraflarla paylaşılmaz.
 
 8. KVKK Kapsamındaki Haklarınız
 KVKK'nın 11. maddesi uyarınca aşağıdaki haklara sahipsiniz:
