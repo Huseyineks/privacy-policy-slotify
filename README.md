@@ -10,7 +10,7 @@
 
 _Son güncelleme: 19 Ekim 2026_
 
-Bu Gizlilik Politikası, Slotify mobil uygulamasını ("Uygulama") kullanırken toplanan kişisel verilerin 6698 sayılı Kişisel Verilerin Korunması Kanunu ("KVKK") kapsamında nasıl işlendiğini açıklamaktadır. Uygulamayı kullanarak bu Politikada açıklanan veri işleme faaliyetlerini kabul etmiş olursunuz.
+Bu Gizlilik Politikası, Slotify uygulamasını ("Uygulama") kullanırken toplanan kişisel verilerin 6698 sayılı Kişisel Verilerin Korunması Kanunu ("KVKK") kapsamında nasıl işlendiğini açıklamaktadır. Uygulamayı kullanarak bu Politikada açıklanan veri işleme faaliyetlerini kabul etmiş olursunuz.
 
 ### 1. Veri Sorumlusu
 
@@ -114,7 +114,7 @@ Slotify, kullanıcılara işlem bildirimleri, tek kullanımlık doğrulama kodla
 
 _Last updated: 19 October 2026_
 
-This Privacy Policy explains how personal data collected while using the Slotify mobile application ("App") is processed in accordance with Turkey's Personal Data Protection Law No. 6698 ("KVKK"). By using the App, you accept the data processing activities described in this Policy.
+This Privacy Policy explains how the personal data collected while you use the Slotify application (the "App") is processed under Turkish Law No. 6698 on the Protection of Personal Data ("KVKK"). By using the App, you accept the data processing activities described in this Policy.
 
 ### 1. Data Controller
 
@@ -218,7 +218,7 @@ Slotify uses SMS to deliver transactional notifications, one-time passcodes (OTP
 
 _Последнее обновление: 19 октября 2026_
 
-Настоящая Политика конфиденциальности объясняет, как персональные данные, собираемые при использовании мобильного приложения Slotify ("Приложение"), обрабатываются в соответствии с Законом Турции о защите персональных данных № 6698 ("KVKK"). Используя Приложение, вы принимаете описанную в настоящей Политике деятельность по обработке данных.
+Настоящая Политика конфиденциальности объясняет, как обрабатываются персональные данные, собираемые при использовании приложения Slotify («Приложение»), в соответствии с Законом Турции № 6698 «О защите персональных данных» («KVKK»). Используя Приложение, вы соглашаетесь с действиями по обработке данных, описанными в настоящей Политике.
 
 ### 1. Оператор данных
 
@@ -322,7 +322,7 @@ Slotify использует SMS для отправки транзакцион�
 
 _Τελευταία ενημέρωση: 19 Οκτωβρίου 2026_
 
-Η παρούσα Πολιτική απορρήτου εξηγεί τον τρόπο με τον οποίο υφίστανται επεξεργασία τα προσωπικά δεδομένα που συλλέγονται κατά τη χρήση της εφαρμογής για κινητά Slotify («Εφαρμογή»), σύμφωνα με τον Νόμο 6698 της Τουρκίας για την προστασία προσωπικών δεδομένων («KVKK»). Με τη χρήση της Εφαρμογής, αποδέχεστε τις δραστηριότητες επεξεργασίας δεδομένων που περιγράφονται στην παρούσα Πολιτική.
+Η παρούσα Πολιτική Απορρήτου εξηγεί πώς υποβάλλονται σε επεξεργασία τα προσωπικά δεδομένα που συλλέγονται κατά τη χρήση της εφαρμογής Slotify («Εφαρμογή»), στο πλαίσιο του Νόμου αριθ. 6698 για την Προστασία Προσωπικών Δεδομένων («KVKK»). Χρησιμοποιώντας την Εφαρμογή, αποδέχεστε τις δραστηριότητες επεξεργασίας δεδομένων που περιγράφονται στην παρούσα Πολιτική.
 
 ### 1. Υπεύθυνος επεξεργασίας
 
